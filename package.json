@@ -1,0 +1,24 @@
+{
+  "name": "week12challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikak02/Week12Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikak02/Week12Challenge/issues"
+  },
+  "homepage": "https://github.com/Mikak02/Week12Challenge#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "inquirer": "^9.0.0"
+  }
+}
