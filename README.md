@@ -19,7 +19,7 @@ Inquirer is not working for me. I reviewed back to module 9.3 and googled for so
 - console.table package
 
 ## Link to Video Submission
-[Video] (https://mikak02.github.io/week12Challenge/)
+[Video] (https://drive.google.com/file/d/1o-k5sdSVnGTugZWvnc3014h6GTe9KHJH/view)
 
 ## Screenshot
 ![Screenshot of website](/db/assets/images/Screenshot.png)
